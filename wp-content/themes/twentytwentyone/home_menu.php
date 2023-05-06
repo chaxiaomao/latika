@@ -30,7 +30,7 @@
             </a>
         </li>
         <li>
-            <a href="<?php bloginfo('rss2_url'); ?>" target="_blank">
+            <a href="<?php bloginfo('rss2_url'); ?>">
                 <span class="MenuText">RSS</span>
             </a>
         </li>

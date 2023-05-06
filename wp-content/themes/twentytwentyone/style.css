@@ -1,7 +1,7 @@
-@font-face {
+/**@font-face {
 	font-family: CustomerFamily;
 	src: url('./assets/DejaVuSansMono-Roman.ttf');
-}
+}**/
 
 html {
 	height: 100%;
@@ -11,7 +11,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: CustomerFamily, 'Times New Roman', serif !important;
+	/**font-family: CustomerFamily, 'Times New Roman', serif !important;**/
 	background: -webkit-radial-gradient(center, ellipse cover, #FCFCFC 0%, #D8D8D8 100%);
 }
 

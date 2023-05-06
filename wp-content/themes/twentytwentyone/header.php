@@ -26,7 +26,7 @@
 
 <div class="site_area">
     <div class="site_header">
-        <div class="box"><a href="/">Smartisan box</a></div>
+        <div class="box"><a href="/">Smartisan</a></div>
     </div>
     <!-- MAIN  -->
     <div class="site_main_content">
